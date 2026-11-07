@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas, questions and "how do I…"
+    url: https://github.com/Rtnkr/euthus/discussions
+    about: Suggest a feature or ask the community.
